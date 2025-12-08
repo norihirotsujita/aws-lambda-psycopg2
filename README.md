@@ -1,2 +1,1 @@
-This is a ZIP file for creating psycopg2 Lambda layers for AWS Lambda Python.
-The official AWS Lambda Python ("public.ecr.aws/lambda/python:3.xx") image is obtained, and the library is zipped in an environment where psycopg2 is installed.
+This is a ZIP file for creating a psycopg2 Lambda layer for AWS Lambda Python. It takes the official AWS Lambda Python image ("public.ecr.aws/lambda/python:3.xx") and compresses the libraries with psycopg2 installed.
